@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  .trantable table tr th,
+  .trantable table tr td {
+    border: 1px solid rgba(195, 188, 188, 0.438);
+    text-align: center;
+    color: gray;
+    font-size: larger;
+  }
+  .btn-download {
+   
+    margin: 20px;
+    margin-bottom: 0;
+    float: right;
+    width: 15%;
+    background-color: blueviolet;
+    color: aliceblue;
+    border: none;
+    outline: none;
+    height: 40px;
+    border-radius: 10px;
+  }
+  .btn_add{
+      margin: 40px !important;
+      margin-bottom: 0 !important;
+  }
+  .trantable {
+    min-height: 500px;
+    margin-bottom: 40px;
+    padding: 10px;
+  }
+  .search_sys{
+     display: flex;
+     justify-content:center;
+     
+      align-items: center;
+  }
+  .btn_b {
+    min-width: 40px !important;
+    min-height: 30px !important;
+    margin: 0;
+    padding: 0 !important;
+  }
+  
+  .pg div:first-child div:first-child div:first-child {
+    padding-bottom: 17px;
+  }
+  .pg div:nth-child(5) {
+    padding-bottom: 15px;
+  }
+  
+  .pg svg:nth-child(3) {
+    padding-bottom: 13px;
+  }
+  
+  .pg {
+    width: 100%;
+  }
+  .searchbox {
+    height: 40px;
+    border-radius: 10px;
+    padding: 20px;
+    outline: none !important;
+    border: 2px solid  rgb(115, 36, 161);
+  
+  margin-left: 10px;
+  }
+  
